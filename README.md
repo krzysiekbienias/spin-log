@@ -1,1 +1,3 @@
 # spin-log
+## Overview
+SpinLog is a tennis match tracking application designed for players to log and analyze their past matches. The app allows users to record match results, add short descriptions of games, evaluate their performance, track opponent history, and unlock achievements based on gameplay milestones. With detailed statistics, win/loss analysis, and court-based performance tracking, players can gain insights into their progress. The platform also includes social sharing features, allowing users to compare their performance with friends and share key victories. Whether you’re a casual player or a competitive athlete, SpinLog helps you relive your best rallies and improve your game. 🚀🎾
